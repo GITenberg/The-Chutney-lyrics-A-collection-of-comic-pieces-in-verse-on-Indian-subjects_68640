@@ -1,0 +1,24 @@
+_repo: The-Chutney-lyrics-A-collection-of-comic-pieces-in-verse-on-Indian-subjects_68640
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Caldwell, R. C.
+    gutenberg_agent_id: '54881'
+    url: http://www.gutenberg.org/2009/agents/54881
+description: ''
+gutenberg_issued: '2022-07-29'
+identifiers:
+  gutenberg: '68640'
+language: en
+pgterms:marc905: 20220719134445caldwell
+pgterms:marc906: '1889'
+pgterms:marc907: IN
+production_note: Al Haines
+publication_note: India :Higginbotham and Co.,1889.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Chutney lyrics: A collection of comic pieces in verse on Indian subjects'
+url: http://www.gutenberg.org/ebooks/68640
